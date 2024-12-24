@@ -8,6 +8,15 @@ a contrib module available, just in case.
 
 This module is specifically for Basis theme. 
 
+NOTE: This provides a UI for a feature that will be introduced in the 
+1.30 release of BackdropCMS. I will not release this contrib module, 
+until after that release and only if the UI does not go into core.
+
+I don't like the current name of this module and am taking alternative
+suggestions prior to it's initial release. I am also open to including 
+this feature in another existing contrib module rather than starting a 
+new module. 
+
 
 Installation
 ------------
