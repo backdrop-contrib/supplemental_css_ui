@@ -1,7 +1,7 @@
 Supplemental CSS UI
 ========
-Provides a UI for the supplemental CSS selector feature in core. Link to 
-documentation is coming. 
+Provides a UI for the supplemental CSS selector feature added to core in
+version 1.30. Link to documentation is coming. 
 
 We are still debating whether or not this UI should go into core. I'm making
 a contrib module available, just in case. 
