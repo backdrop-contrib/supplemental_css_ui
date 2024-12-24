@@ -1,0 +1,14 @@
+type = module
+name = Supplemental CSS UI
+description = Provides a UI to allow additional options regarding supplemental css in Basis theme.
+backdrop = 1.x
+
+; Link to the module's configuration page.
+configure = admin/config/system/mymodule
+
+
+; List any dependencies here.
+
+
+; Find suggested packages and tags at: https://docs.backdropcms.org/documentation/module-packages-and-tags
+tags[] = Appearance
