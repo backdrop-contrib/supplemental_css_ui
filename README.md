@@ -1,59 +1,27 @@
-MyModule
+Supplemental CSS UI
 ========
-<!--
-The first paragraph of this file should be kept short as it will be used as the
-project summary on BackdropCMS.org. Aim for about 240 characters (three lines at
-80 characters each).
+Provides a UI for the supplemental CSS selector feature in core. Link to 
+documentation is coming. 
 
-All lines in this file should be no more than 80 characters long for legibility,
-unless including a URL or example that requires the line to not wrap.
-|<- - - - - - - This line is exactly 80 characters for reference - - - - - - ->|
+We are still debating whether or not this UI should go into core. I'm making
+a contrib module available, just in case. 
 
-Detail in READMEs should be limited to the minimum required for installation and
-getting started. More detailed documentation should be moved to a GitHub wiki
-page; for example: https://github.com/backdrop-contrib/setup/wiki/Documentation.
--->
-
-MyModule enables you to...
-
-
-Requirements
-------------
-<!--
-List any dependencies here. Remove this section if not needed.
--->
-
-This module requires that the following modules are also enabled:
-
-- [Example module](https://github.com/backdrop-contrib/example_module)
-- [Dummy library](https://github.com/backdrop-contrib/dummy_library)
+This module is specifically for Basis theme. 
 
 
 Installation
 ------------
-<!--
-List the steps needed to install and configure the module. Add/remove steps as
-necessary.
--->
-
 - Install this module using the official Backdrop CMS instructions at
   https://docs.backdropcms.org/documentation/extend-with-modules.
 
-- Visit the configuration page under Administration > Configuration > System >
-  MyModule (admin/config/system/mymodule) and enter the required information.
-
-- Additional steps go here...
+- Visit the Basis theme settings page for configuration.
 
 
 Documentation
 -------------
-<!--
-Link to the repository's wiki if more documentation can be found there. Remove
-this section if not needed (and consider disabling the wiki in the repo settings
-if not used).
--->
 
-Additional documentation is located in the Wiki:
+
+Additional documentation will be located in the Wiki:
 https://github.com/backdrop-contrib/mymodule/wiki/Documentation.
 
 
@@ -63,8 +31,7 @@ Issues
 Link to the repo's issue queue.
 -->
 
-Bugs and Feature Requests should be reported in the Issue Queue:
-https://github.com/backdrop-contrib/mymodule/issues.
+
 
 
 Current Maintainers
@@ -74,7 +41,7 @@ List the current maintainer(s) of the module, and note if this module needs
 new/additional maintainers.
 -->
 
-- [Your Name](https://github.com/username)
+- [Tim Erickson](https://github.com/stpaultim)
 - Seeking additional maintainers
 
 
